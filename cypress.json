@@ -1,0 +1,12 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "pluginsFile": false,
+  "fixturesFolder": false,
+  "supportFile": "cypress/support/index.js",
+<<<<<<< HEAD
+  "video": false,
+  "defaultCommandTimeout": 10000
+=======
+  "video": false
+>>>>>>> 9c8809b... first commit
+}
